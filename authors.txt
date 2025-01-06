@@ -1,1 +1,1 @@
-svn_username = jayadpathandev jayadpdev@gmail.com
+svn_username = jayadp jayadpdev@gmail.com
