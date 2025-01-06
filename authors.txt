@@ -1,1 +1,1 @@
-svn_username = Git Name jayadpdev@gmail.com
+svn_username = jayadpathandev jayadpdev@gmail.com
